@@ -23,7 +23,7 @@ Unity Hub is a central management tool that allows you to install and manage dif
 
 
 ### Create a Unity ID and Sign In
-After downloading the Unity Hub, it'll prompt you to sign in or create an account. You'll likely need to create a new account, and when prompted, select the personal plan (0$).
+After downloading the Unity Hub, it'll prompt you to sign in or create an account. You'll likely need to create a new account, and when prompted, select the personal plan ($0).
 
 ---
 
