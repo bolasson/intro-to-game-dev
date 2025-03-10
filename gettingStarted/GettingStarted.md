@@ -21,6 +21,10 @@ Unity Hub is a central management tool that allows you to install and manage dif
   Follow the official Unity documentation for installing Unity Hub on Linux:  
   [Install Unity Hub on Linux](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux).
 
+
+### Create a Unity ID and Sign In
+After downloading the Unity Hub, it'll prompt you to sign in or create an account. You'll likely need to create a new account, and when prompted, select the personal plan (0$).
+
 ---
 
 ## 2. Installing the Unity Editor (Latest LTS Version)
