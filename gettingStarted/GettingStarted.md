@@ -2,6 +2,8 @@
 
 Welcome! This guide will help you set up the necessary tools for game development using Unity. By the end of these instructions, you’ll have Unity Hub, the latest LTS version of the Unity Editor, and Visual Studio Code installed on your system.
 
+_Note: If you'd like a more in depth explanation of how to install the Unity Hub and Editor, check out Unity's own tutorial [here](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/unity-essentials-install-unity?version=6)._
+
 ---
 
 ## 1. Installing Unity Hub
